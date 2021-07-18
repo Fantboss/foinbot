@@ -1,5 +1,5 @@
 import discord, asyncio, random
-token = "ODM5NjQxMjQyNzAyOTcwODgw.YJMm2A.oEFJ3l0eciN1bUC4OyEWMgZZPhg"
+token = "ODM5NjQxMjQyNzAyOTcwODgw.YJMm2A.wf9Lg8zevY5LYIMygPy2V1F0Msg"
 intents = discord.Intents.all()
 Client = discord.Client(intents=intents)
 
